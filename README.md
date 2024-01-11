@@ -11,7 +11,7 @@ interests in game development:
 I want to improve at desging character and game components and programming.
 
 Projects:
-Unamed RPG title
+Unamed title
 
 
 <!---
